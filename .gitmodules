@@ -1,0 +1,12 @@
+[submodule "Nest.BlackBird"]
+	path = Nest.BlackBird
+	url = git@github.com:Makorj/Nest.BlackBird.git
+[submodule "Nest.Hawk"]
+	path = Nest.Hawk
+	url = git@github.com:Makorj/Nest.Hawk.git
+[submodule "Nest.Quelea"]
+	path = Nest.Quelea
+	url = git@github.com:Makorj/Nest.Quelea.git
+[submodule "Nest.Jackdaw.Interface"]
+	path = Nest.Jackdaw.Interface
+	url = git@github.com:Makorj/Nest.Jackdaw.Interface.git
