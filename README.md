@@ -17,14 +17,14 @@ Made with .Net Core it _should_ be portable to multiple OS (tested on Windows64 
 
 ## Nest's main components
 
-### [Hawk server](https://github.com/Makorj/Nest.Hawk)
+### [Hawk server](https://github.com/Studio-BlackFlag/Nest.Hawk)
 
-### [Quelea worker](https://github.com/Makorj/Nest.Quelea)
+### [Quelea worker](https://github.com/Studio-BlackFlag/Nest.Quelea)
 
-### [Jackdaw interface](https://github.com/Makorj/Nest.Jackdaw)
+### [Jackdaw interface](https://github.com/Studio-BlackFlag/Nest.Jackdaw)
 
 ## Nest's shared libraries
 
-### [BlackBird](https://github.com/Makorj/Nest.Blackbird)
+### [BlackBird](https://github.com/Studio-BlackFlag/Nest.Blackbird)
 
-### [Jackdaw.Interface](https://github.com/Makorj/Nest.Jackdaw.Interface)
+### [Jackdaw.Interface](https://github.com/Studio-BlackFlag/Nest.Jackdaw.Interface)
